@@ -7,7 +7,8 @@
 	"technologies": ["python", "flask", "render", "numpy", "pandas", "scikit-learn", "tensorflow", "keras", "data-science", "machine-learning"],
 	"difficulty": "beginner",
 	"syntax": "python",
-	"duration" : 1,
+	"duration" : 1, 
+	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     "projectType": "project",
 	"description" : "Use Flask to create a machine learning web application."
 }
